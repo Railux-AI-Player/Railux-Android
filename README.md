@@ -80,9 +80,15 @@ Download the latest APK from our [Releases](https://github.com/Railux-AI-Player/
 
 | Home Screen | Media Detail | Player |
 |:-----------:|:------------:|:------:|
-| *Coming Soon* | *Coming Soon* | *Coming Soon* |
+| ![Home](screenshots/1.home-cn-1.jpg) | ![Detail](screenshots/4.detail-1.png) | ![Player](screenshots/5.play-1.png) |
 
 </div>
+
+### More Screenshots
+
+| Discover | File Browser | Emby |
+|:--------:|:------------:|:----:|
+| ![Discover](screenshots/2.Discoer-0.jpg) | ![File](screenshots/3.file-1.jpg) | ![Emby](screenshots/6.emby-1.jpg) |
 
 ## Documentation
 
