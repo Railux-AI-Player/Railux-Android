@@ -80,7 +80,7 @@ Download the latest APK from our [Releases](https://github.com/Railux-AI-Player/
 
 | Home Screen | Media Detail | Player |
 |:-----------:|:------------:|:------:|
-| ![Home](screenshots/1.home-en-1.jpg) | ![Detail](screenshots/4.detail-en-1.png) | ![Player](screenshots/5.play-1.png) |
+| ![Home](screenshots/1.home-en-1.jpg) | ![Detail](screenshots/4.detail-en-1.jpg) | ![Player](screenshots/5.play-1.png) |
 
 </div>
 
