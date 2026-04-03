@@ -40,7 +40,7 @@ Railux Android is a modern, feature-rich media player application designed for A
 - Dark and Light themes
 - Gesture controls (swipe to seek, volume/brightness adjustment)
 - Continue watching functionality
-- Multiple server support (Jellyfin, Emby, WebDAV, SMB)
+- Multiple server support (Emby, WebDAV, SMB)
 
 ### 🌐 **Multi-Source Support**
 - Jellyfin media server integration
