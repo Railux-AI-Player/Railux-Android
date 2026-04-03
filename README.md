@@ -27,17 +27,17 @@ Railux Android is a modern, feature-rich media player application designed for A
 - Hardware-accelerated video decoding
 - Picture-in-Picture (PiP) mode support
 - Background playback
-- Subtitle support (SRT, VTT, ASS/SSA)
+- Subtitle support (SRT, ASS/SSA)
 
 ### 🤖 **AI Integration**
 - Intelligent content recommendations
 - Smart subtitle matching
-- Automated metadata fetching
+- AI Automated metadata fetching
 - AI-enhanced playback optimization
 
 ### 📱 **User Experience**
-- Material Design interface
-- Dark and Light themes
+- Hero Design interface
+- Dark themes
 - Gesture controls (swipe to seek, volume/brightness adjustment)
 - Continue watching functionality
 - Multiple server support (Emby, WebDAV, SMB)
@@ -80,7 +80,7 @@ Download the latest APK from our [Releases](https://github.com/Railux-AI-Player/
 
 | Home Screen | Media Detail | Player |
 |:-----------:|:------------:|:------:|
-| ![Home](screenshots/1.home-cn-1.jpg) | ![Detail](screenshots/4.detail-1.png) | ![Player](screenshots/5.play-1.png) |
+| ![Home](screenshots/1.home-en-1.jpg) | ![Detail](screenshots/4.detail-en-1.png) | ![Player](screenshots/5.play-1.png) |
 
 </div>
 
@@ -101,7 +101,6 @@ Download the latest APK from our [Releases](https://github.com/Railux-AI-Player/
 
 | Server | Status | Features |
 |--------|--------|----------|
-| Jellyfin | ✅ Full Support | Direct play, transcoding, live TV |
 | Emby | ✅ Full Support | Direct play, transcoding |
 | WebDAV | ✅ Full Support | Streaming from WebDAV servers |
 | SMB/CIFS | ✅ Full Support | Network share browsing |
